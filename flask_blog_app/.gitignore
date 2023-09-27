@@ -1,4 +1,0 @@
-# Pythonの仮想環境を無視
-venv/
-
-__pycache__
